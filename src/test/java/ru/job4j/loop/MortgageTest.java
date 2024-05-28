@@ -1,9 +1,9 @@
-package ru.job4j.loop.ru.job4j.loop;
+package ru.job4j.loop;
 
 import org.junit.jupiter.api.Test;
+import ru.job4j.loop.Mortgage;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 class MortgageTest {
 
