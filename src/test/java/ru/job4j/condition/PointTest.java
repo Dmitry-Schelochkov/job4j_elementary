@@ -59,6 +59,4 @@ class PointTest {
         double output = c.distance3d(d);
         assertThat(expected).isEqualTo(output, withPrecision(0.01));
     }
-
-
 }
